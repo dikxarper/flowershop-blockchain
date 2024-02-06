@@ -3,8 +3,8 @@
 import Link from "next/link"
 import {useEffect, useState } from 'react'
 import { AlertCircleIcon, LogInIcon, ShoppingCart} from "lucide-react"
-import { Button } from "dias/components/ui/button"
-import { MainNav } from "dias/components/main-nav"
+import { Button } from "../components/ui/button"
+import { MainNav } from "../components/main-nav"
 import { ethers } from 'ethers'
 
 declare global {

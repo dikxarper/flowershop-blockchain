@@ -1,7 +1,7 @@
 "use client"
 
 import { CartProvider } from "use-shopping-cart"
-import { ThemeProvider } from "front/components/theme-provider"
+import { ThemeProvider } from "../components/theme-provider"
 
 interface Props {
   children: React.ReactNode

@@ -1,3 +1,2 @@
-## E-Commerce App
+## E-commerce Flowershop with smart contracts 
 
-- [Project Link](https://bit.ly/fs-ecommerce)
